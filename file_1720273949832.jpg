@@ -1,0 +1,1 @@
+    const parts = newName.split("::");    if (parts.length !== 2) {      return { ip: '', port: '
