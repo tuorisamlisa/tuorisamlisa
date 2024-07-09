@@ -1,0 +1,1 @@
+10, 13)  await commonLib.moveClickThenWait("点击左侧第一个项目", 115, 311, 5, 7)  await commonLib.moveClick
