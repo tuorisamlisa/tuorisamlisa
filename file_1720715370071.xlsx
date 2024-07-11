@@ -1,0 +1,1 @@
+  // Close readline interface on end of file  rl.on('close', () => {    console.log('CSV file pro
