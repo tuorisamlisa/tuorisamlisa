@@ -1,0 +1,1 @@
+rt the table initialization functionmodule.exports.initTable = initTable;function checkRecordExi
