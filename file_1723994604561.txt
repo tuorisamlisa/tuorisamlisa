@@ -1,0 +1,1 @@
+ss(addr, 10, 13)  // await commonLib.moveClickThenWait("点击左下角的profile", 127, 713, 10, 12)  const
