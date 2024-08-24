@@ -1,0 +1,1 @@
+filePath = path.join(directoryPath, randomFile);    // Check if the selected path is a file    co
